@@ -23,7 +23,7 @@ You also need **pip** to install dependencies.
 
 ```sh
 git clone https://github.com/yourusername/weather-app.git
-cd weather-app
+cd App_weather
 ```
 
 ### 🔹 Set Up OpenWeather API Key
